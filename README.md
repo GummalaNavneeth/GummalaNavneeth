@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Gummala Navneeth
+- 👀 I’m interested in applications of machine learning in the study of the biomechanics of various animals.
+- 🌱 I’m currently learning Machine learning
+- 💞️ I’m looking to collaborate on projects related to biomechanics of animals (Especially flight capable animals)
+- 📫 You can reach me through "g.navneeth9@gmail.com"
